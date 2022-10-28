@@ -1,0 +1,38 @@
+<rankingATP>
+  <jugador>
+    <nombre>Rafael Nadal</nombre>
+    <naciondalidad>Español</naciondalidad>
+    <edad>35</edad>
+    <posicion>10</posicion>
+    <puntos>2985</puntos>
+    <entrenador>
+      <nomEntrenador>Carlos Moyá</nomEntrenador>
+      <nacEntrenador>Español</nacEntrenador>
+      <edad>45</edad>
+    </entrenador>
+  </jugador>
+  <jugador>
+    <nombre>Novak Djokovic</nombre>
+    <naciondalidad>Serbio</naciondalidad>
+    <edad>34</edad>
+    <posicion>1</posicion>
+    <puntos>9970</puntos>
+    <entrenador>
+      <nomEntrenador>Marian Vajda</nomEntrenador>
+      <nacEntrenador>Eslovaco</nacEntrenador>
+      <edad>56</edad>
+    </entrenador>
+  </jugador>
+  <jugador>
+    <nombre>Roger Federer</nombre>
+    <naciondalidad>Suizo</naciondalidad>
+    <edad>40</edad>
+    <posicion>16</posicion>
+    <puntos>2385</puntos>
+    <entrenador>
+      <nomEntrenador>Severin Luthi</nomEntrenador>
+      <nacEntrenador>Suizo</nacEntrenador>
+      <edad>45</edad>
+    </entrenador>
+  </jugador>
+</rankingATP>
