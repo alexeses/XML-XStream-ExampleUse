@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<agencia>
+    <viaje>
+        <id>1</id>
+        <nombre>Semana Santa en Revira Maya</nombre>
+        <ciudad>
+            <codigo>PCN</codigo>
+            <nombreCiudad>Playa del Carmen</nombreCiudad>
+            <pais>México</pais>
+        </ciudad>
+        <dias>7</dias>
+        <precio>845.0</precio>
+    </viaje>
+    <viaje>
+        <id>2</id>
+        <nombre>Semana Santa en Cancún</nombre>
+        <ciudad>
+            <codigo>CUN</codigo>
+            <nombreCiudad>Cancún</nombreCiudad>
+            <pais>México</pais>
+        </ciudad>
+        <dias>7</dias>
+        <precio>845.0</precio>
+    </viaje>
+    <viaje>
+        <id>3</id>
+        <nombre>Semana Santa en Riviera Maya</nombre>
+        <ciudad>
+            <codigo>CUN</codigo>
+            <nombreCiudad>Cancún</nombreCiudad>
+            <pais>México</pais>
+        </ciudad>
+        <dias>7</dias>
+        <precio>845.0</precio>
+    </viaje>
+    <viaje>
+        <id>4</id>
+        <nombre>Semana Santa en Riviera Maya</nombre>
+        <ciudad>
+            <codigo>CUN</codigo>
+            <nombreCiudad>Cancún</nombreCiudad>
+            <pais>México</pais>
+        </ciudad>
+        <dias>7</dias>
+        <precio>845.0</precio>
+    </viaje>
+    <viaje>
+        <id>5</id>
+        <nombre>Semana Santa en Riviera Maya</nombre>
+        <ciudad>
+            <codigo>CUN</codigo>
+            <nombreCiudad>Cancún</nombreCiudad>
+            <pais>México</pais>
+        </ciudad>
+        <dias>7</dias>
+        <precio>845.0</precio>
+    </viaje>
+</agencia>
